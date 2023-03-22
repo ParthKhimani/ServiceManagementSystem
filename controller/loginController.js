@@ -121,7 +121,7 @@ exports.postForgotPassword = (req, res, next) => {
                     service: 'gmail',
                     auth: {
                         user: 'parthkhimani48@gmail.com',
-                        pass: 'maatulplnmgqgyio'
+                        pass: 'appKey'
                     }
                 });
 
